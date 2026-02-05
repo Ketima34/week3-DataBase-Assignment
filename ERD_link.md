@@ -1,0 +1,19 @@
+# EX-1
+ ## A:
+ ![alt text](image-1.png)
+ ## B:
+![alt text](image-2.png)
+ ## C:
+ ![alt text](image-3.png)
+ ## D:
+ ![alt text](image-4.png)
+ ## E:
+  ![alt text](image.png)
+# EX-2
+![alt text](image-5.png)
+# EX-3
+![alt text](image-7.png)
+# EX-4
+![alt text](image-6.png)
+# EX-6
+![alt text](image-8.png)
